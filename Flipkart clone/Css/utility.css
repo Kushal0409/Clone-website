@@ -1,0 +1,23 @@
+.flex-all-center{
+    height:12vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+   .ma-1{
+       margin:26px 0;
+   }
+   .ma-2{
+       margin:5px 0;
+   }
+   .bg-co-1{
+       color:rgb(137, 240, 35);
+   }
+   .text-center{
+       text-align: center;
+   }
+   .mg-hw{
+    height: 179px;
+    width: 171px;
+   }
+
